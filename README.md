@@ -17,5 +17,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspossenti&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  ![Snake animation](https://github.com/matheuspossenti/matheuspossenti/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation]<img src="https://raw.githubusercontent.com/matheuspossenti/matheuspossenti/output/snake.svg" alt="Snake animation" />
+
 </div>
