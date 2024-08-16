@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&multiline=true&width=435&height=80&lines=%24+whoami;Matheus+Possenti)](https://git.io/typing-svg)
-I'm a web developer passionate about building innovative and efficient solutions. Constantly seeking new challenges and opportunities to learn and grow.
-  ##
+
+###
+
+I'm a web developer passionate about building innovative and efficient solutions.
+Constantly seeking new challenges and opportunities to learn and grow.
+
+###
  
 <h1 align="left">Tech Stack</h1>
 
@@ -35,8 +40,12 @@ I'm a web developer passionate about building innovative and efficient solutions
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/matheus-possenti/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="matheus.possenti24@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
